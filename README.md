@@ -1,4 +1,4 @@
-# Installing Odoo 17.0 with one command (Supports multiple Odoo instances on one server).
+# Installing Odoo 18.0 with one command (Supports multiple Odoo instances on one server).
 
 ## Quick Installation
 
@@ -121,10 +121,10 @@ server {
 
 ## docker-compose.yml
 
-* odoo:17
-* postgres:16
+* odoo:18
+* postgres:18
 
-## Odoo 17.0 screenshots after successful installation.
+## Odoo 18.0 screenshots after successful installation.
 
 <img src="screenshots/odoo-17-welcome-screenshot.png" width="50%">
 
